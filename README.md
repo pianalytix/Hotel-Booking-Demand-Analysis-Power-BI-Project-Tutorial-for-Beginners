@@ -2,8 +2,6 @@
 
 Welcome to the **Hotel Booking Demand Analysis** Power BI project! In this tutorial, you'll learn how to transform raw booking data into an interactive, insightful dashboard that highlights key trends in the hospitality industry.
 
-![Hotel Booking Dashboard](https://github.com/your-username/your-repo-name/blob/main/hotel-booking-dashboard.png?raw=true)
-
 ---
 
 ## 🚀 Project Highlights
